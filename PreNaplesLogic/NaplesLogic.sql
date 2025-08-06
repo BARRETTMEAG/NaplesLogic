@@ -1,3 +1,8 @@
+-- Group Project: NaplesLogic: Restaurant Management
+-- CS3520 X01 Database Theory
+-- Group 3: Meaghan Barrett, Kaden Kirkwood, Nat Parkinson
+
+
 -- Tables Created
 -- Drop database if exists
 DROP DATABASE IF EXISTS NaplesLogic;
